@@ -195,10 +195,11 @@ Verificar versão ```python3 --version```
 
 ### Instalação ou Atualização
 
-1. Baixar a última versão
-2. Descompactar o arquivo, exemplo: ```sudo tar xzf Python-3.10.0.tgz```
-3. Acesse a pasta, exemplo ```cd Python-3.10.0```
-4. Preparar os arquivos para a compilação ```sudo ./configure --enable-optimizations```
-5. Compile o programa ```sudo make altinstall```
-6. Verifique a versão instalada ```python3 --version```
-7. Remova o arquivo baixado, exemplo ```sudo rm -f Python-3.10.*.tgz```
+1. Instakar ```sudo apt install build-essential```
+2. Baixar a última versão
+3. Descompactar o arquivo, exemplo: ```sudo tar xzf Python-3.10.0.tgz```
+4. Acesse a pasta, exemplo ```cd Python-3.10.0```
+5. Preparar os arquivos para a compilação ```sudo ./configure --enable-optimizations```
+6. Compile o programa ```sudo make altinstall```
+7. Verifique a versão instalada ```python3 --version```
+8. Remova o arquivo baixado, exemplo ```sudo rm -f Python-3.10.*.tgz```
