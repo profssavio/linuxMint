@@ -52,6 +52,8 @@ Obs: Na pasta .m2 tem que configurar settings.xml, se necessário.
 2. ```sudo apt install network-manager-vpnc-gnome```
 3. ```sudo apt install network-manager-openconnect-gnome```
 
+**Obs:** Agora só ir em configurações de rede (próximo ao relogio) é adicionar a VPN
+
 ## NVM(Node)
 
 ```https://github.com/nvm-sh/nvm```
