@@ -190,3 +190,15 @@ Baixar ```https://www.eclipse.org/downloads/packages/```
 ## Python
 
 ```https://www.python.org/```
+
+Verificar versão ```python3 --version```
+
+### Instalação ou Atualização
+
+1. Baixar a última versão
+2. Descompactar o arquivo, exemplo: ```sudo tar xzf Python-3.10.0.tgz```
+3. Acesse a pasta, exemplo ```cd Python-3.10.0```
+4. Preparar os arquivos para a compilação ```sudo ./configure --enable-optimizations```
+5. Compile o programa ```sudo make altinstall```
+6. Verifique a versão instalada ```python3 --version```
+7. Remova o arquivo baixado, exemplo ```sudo rm -f Python-3.10.*.tgz```
