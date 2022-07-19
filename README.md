@@ -131,3 +131,34 @@ A versão 10.0.37 do driver SafeNet exige uma versão da libssl dentro do interv
 ou 
 
 ```sudo ln -s /usr/lib/x86_64-linux-gnu/libcrypto.so.1.1 /usr/lib/x86_64-linux-gnu/libcrypto.so```
+
+## Microsoft Teams
+
+Baixar ```https://www.microsoft.com/pt-br/microsoft-teams/download-app```
+
+## VSCode
+
+Baixar ```https://code.visualstudio.com/```
+
+## Extensões
+
+- Angular Language Service
+- Color Highlight
+- DotENV
+- Dracula Official
+- EditorConfig for VS Code
+- GitLens — Git supercharged
+- Git History
+- JavaScript (ES6) code snippets
+- Jest
+- Path Intellisense
+- Prettier - Code formatter
+- REST Client
+- Todo Tree
+- TypeScript Importer
+- vscode-icons
+- CodeSnap
+- SonarLint
+- Version Lens
+- Extension Pack for Java
+- Spring Boot Extension Pack
