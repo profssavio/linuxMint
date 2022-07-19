@@ -110,3 +110,24 @@ docker run -d -p 9002:9000 --name portainer \
     portainer/portainer-ce:latest
 ```
 
+## SafeNet
+
+1. Baixar e instalar a versao: safenetauthenticationclient_10.7.77_amd64.deb ```https://certificados.serpro.gov.br/arserpro/pages/information/drivers_token_download.jsf```
+
+2. Instalar as dependências do Assinador SafeNet
+- opensc 
+- openssl 
+- libengine-pkcs11-openssl 
+- libccid 
+- pcscd 
+- pcsc-tools 
+- pkcs11-data
+
+Erro no log pjeoffice: CRYPTO/Crypto.c:258: init_openssl_crypto: Assertion `lib' failed
+A versão 10.0.37 do driver SafeNet exige uma versão da libssl dentro do intervalo fixo >=0.9.8 || <=1.0.1. Porém, no Ubuntu >=20.04, a libssl está na versão 1.1. Neste caso específico, a compatibilidade não foi comprometida e é preciso "enganar" o driver para que ele encontre a biblioteca correta. Para isso, crie um link apontando para a libssl do Ubuntu:
+
+```sudo ln -s /usr/lib/x86_64-linux-gnu/libcrypto.so.3 /usr/lib/x86_64-linux-gnu/libcrypto.so``` 
+
+ou 
+
+```sudo ln -s /usr/lib/x86_64-linux-gnu/libcrypto.so.1.1 /usr/lib/x86_64-linux-gnu/libcrypto.so```
