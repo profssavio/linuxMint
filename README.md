@@ -4,7 +4,7 @@ Baixar a imagem no site ```https://www.linuxmint.com/download.php```
 
 Utilizar o programa para gerar o pendriver bootável ```https://www.balena.io/etcher/```
 
-# Confuguração do Linux Mint
+# Configuração do Linux Mint
 
 ## Terminator
 
