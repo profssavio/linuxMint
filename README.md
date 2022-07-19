@@ -176,3 +176,9 @@ Baixar ```https://code.visualstudio.com/```
 Baixar ```https://www.eclipse.org/downloads/packages/``` 
 
 **Obs:** Verificar a versão conforme a sua necessidade.
+
+## PHP
+
+1. ```sudo apt install software-properties-common```
+2. ```sudo add-apt-repository ppa:ondrej/php```
+3. ```sudo apt install php8.1 php8.1-bcmath php8.1-curl php8.1-gd php8.1-intl php8.1-mysql```  
