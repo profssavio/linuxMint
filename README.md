@@ -195,7 +195,7 @@ Verificar versão ```python3 --version```
 
 ### Instalação ou Atualização
 
-1. Instakar ```sudo apt install build-essential```
+1. Instalar ```sudo apt install build-essential```
 2. Baixar a última versão
 3. Descompactar o arquivo, exemplo: ```sudo tar xzf Python-3.10.0.tgz```
 4. Acesse a pasta, exemplo ```cd Python-3.10.0```
