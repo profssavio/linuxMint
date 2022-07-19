@@ -1,5 +1,7 @@
 # Configuração do Linux Mint
 
+Baixar a imagem no site ```https://www.linuxmint.com/download.php```
+
 ## Terminator
 
 ```sudo apt install terminator```
