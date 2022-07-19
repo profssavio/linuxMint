@@ -93,3 +93,7 @@ $ echo \
 ```$ sudo usermod -aG docker $USER```
 
 **Obs:** Reiniciar o computador
+
+## Docker Composer
+
+Verificar versão ```docker compose version```
