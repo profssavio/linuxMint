@@ -175,4 +175,4 @@ Baixar ```https://code.visualstudio.com/```
 
 Baixar ```https://www.eclipse.org/downloads/packages/``` 
 
-**Obs:** Verificar a versão conforma a sua necessidade.
+**Obs:** Verificar a versão conforme a sua necessidade.
