@@ -35,3 +35,29 @@
 
 1. ```sudo update-alternatives --config java```
 2. ```sudo update-alternatives --config javac```
+
+## Maven
+
+```sudo apt install maven```
+
+Obs: Na pasta .m2 tem que configurar settings.xml, se necessário.
+
+## Dbeaver
+
+```https://dbeaver.io/```
+
+## VPN
+
+1. ```sudo apt install network-manager-vpnc```
+2. ```sudo apt install network-manager-vpnc-gnome```
+3. ```sudo apt install network-manager-openconnect-gnome```
+
+## NVM(Node)
+
+```https://github.com/nvm-sh/nvm```
+
+### Comandos
+
+1. ```nvm list-remote```
+2. ```nvm install xxx```
+3. ```nvm alias default xxx```
