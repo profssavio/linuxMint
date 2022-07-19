@@ -170,3 +170,9 @@ Baixar ```https://code.visualstudio.com/```
 - Version Lens
 - Extension Pack for Java
 - Spring Boot Extension Pack
+
+## Eclipse IDE
+
+Baixar ```https://www.eclipse.org/downloads/packages/``` 
+
+**Obs:** Verificar a versão conforma a sua necessidade.
