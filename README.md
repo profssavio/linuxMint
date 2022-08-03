@@ -110,6 +110,11 @@ $ echo \
 
 Verificar versão ```docker compose version```
 
+## Alguns comandos
+
+1.  ```docker compose up -d```
+2.  ```docker compose down```
+
 ## Portainer - Gerenciador Docker
 
 ```docker volume create portainer_data```
