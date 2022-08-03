@@ -16,6 +16,8 @@ Utilizar o programa para gerar o pendriver bootável ```https://www.balena.io/et
 
 ## Meld
 
+Ferramenta de diferenciação visual, ajuda a comparar arquivos, diretórios e etc.
+
 ```sudo apt install meld```
 
 ## Ohmyzsh
