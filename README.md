@@ -73,6 +73,9 @@ Obs: Na pasta .m2 tem que configurar settings.xml, se necessário.
 1. ```nvm list-remote```
 2. ```nvm install xxx```
 3. ```nvm alias default xxx```
+4. ```node --version```
+5. ```npm --version```
+6. ```yarn --version```
 
 ## Docker
 
