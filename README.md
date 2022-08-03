@@ -189,5 +189,7 @@ Baixar ```https://www.eclipse.org/downloads/packages/```
 
 # MySQL Workbench
 
+Ferramenta de gerenciamento do banco de dados MySQL.
+
 ```https://dev.mysql.com/downloads/workbench/```
 
