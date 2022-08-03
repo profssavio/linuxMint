@@ -50,7 +50,7 @@ Ferramenta de diferenciação visual, ajuda a comparar arquivos, diretórios e e
 
 Obs: Na pasta .m2 tem que configurar settings.xml, se necessário.
 
-## Dbeaver
+## DBeaver
 
  É um programa multiplataforma, que tem por objetivo conectar e manipular vários tipos de banco de dados.
 
