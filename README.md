@@ -50,6 +50,8 @@ Obs: Na pasta .m2 tem que configurar settings.xml, se necessário.
 
 ## Dbeaver
 
+ É um programa multiplataforma, que tem por objetivo conectar e manipular vários tipos de banco de dados.
+
 ```https://dbeaver.io/```
 
 ## VPN
