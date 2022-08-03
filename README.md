@@ -186,20 +186,3 @@ Baixar ```https://www.eclipse.org/downloads/packages/```
 1. ```sudo apt install software-properties-common```
 2. ```sudo add-apt-repository ppa:ondrej/php```
 3. ```sudo apt install php8.1 php8.1-bcmath php8.1-curl php8.1-gd php8.1-intl php8.1-mysql php-xml```  
-
-## Python
-
-```https://www.python.org/```
-
-Verificar versão ```python3 --version```
-
-### Instalação ou Atualização
-
-1. Instalar ```sudo apt install build-essential```
-2. Baixar a última versão
-3. Descompactar o arquivo, exemplo: ```sudo tar xzf Python-3.10.0.tgz```
-4. Acesse a pasta, exemplo ```cd Python-3.10.0```
-5. Preparar os arquivos para a compilação ```sudo ./configure --enable-optimizations```
-6. Compile o programa ```sudo make altinstall```
-7. Verifique a versão instalada ```python3 --version```
-8. Remova o arquivo baixado, exemplo ```sudo rm -f Python-3.10.*.tgz```
